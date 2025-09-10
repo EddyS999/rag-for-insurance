@@ -157,17 +157,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 👥 Auteurs
-
-- **Votre Nom** - *Développement initial* - [votre-github](https://github.com/votre-username)
-
-## 🙏 Remerciements
-
-- Hugging Face pour les modèles Transformers
-- BAAI pour le modèle d'embeddings BGE
-- La communauté open source pour les outils utilisés
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails 
 
 ---
 
